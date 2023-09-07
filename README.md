@@ -7,7 +7,7 @@ Play the classic Hangman Game on Python!
 
 ### How to Play
 
-1. Use the left click to select the letter.
+1. Use the keyboard to select a letter.
 
 ### Requirements
 
